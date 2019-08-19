@@ -432,3 +432,7 @@ img {
 .float-right {
   float: right;
 }
+
+.essay {
+  width: 50%;
+}
