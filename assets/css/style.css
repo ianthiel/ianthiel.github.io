@@ -438,3 +438,8 @@ img {
 .float-right {
   float: right;
 }
+
+.open-in-new {
+  margin: auto;
+  vertical-align: middle;
+}
